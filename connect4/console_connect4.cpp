@@ -8,7 +8,7 @@ const int ROWS = 6;
 const int COLS = 7;
 
 int board[ROWS][COLS] = {0};
-
+//1=player 2=computer
 void printBoard()
 {
     cout << "\n";
