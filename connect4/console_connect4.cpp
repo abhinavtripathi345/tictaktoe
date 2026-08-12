@@ -140,7 +140,7 @@ int main()
 
     int choice;
 
-    cout << "====== CONNECT 4 / kattamkutta======\n";
+    cout << "====== CONNECT 4 ======\n";
     cout <<"Rules:\n";
     cout <<"-lowest empty slot will be filled first\n";
     cout <<"-if you press any column and base row is filled base+1 will be filled\n";
